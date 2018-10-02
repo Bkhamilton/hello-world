@@ -1,3 +1,3 @@
 # hello-world
 
-Hello! I don't know what to type here but it does not matter!
+Hello! I have never used GitHub before, but it seems pretty straightforward.
